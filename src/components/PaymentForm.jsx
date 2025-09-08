@@ -126,7 +126,7 @@ const PaymentForm = () => {
       </div>
 
       <div className="mt-6 text-center text-xs text-white/80">
-        <p>Built with ❤️ for the internship demo • Keep keys on the server</p>
+        <p>Powered by - Trinity Packaging Co. Pvt. Ltd</p>
       </div>
     </div>
   );
