@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+const BACKEND = import.meta.env.VITE_BACKEND_URL || "http://localhost:5000";
 
 const PaymentForm = () => {
   const [amount, setAmount] = useState("100");
